@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Texture_From_ESP32CAM.305904798.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="TextureFromESP32CAM.cs" t="Include" />
+          <e p="WebSocket" t="Include">
+            <e p="WebSocket.cs" t="Include" />
+          </e>
+          <e p="websocket-sharp" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+            <e p="ByteOrder.cs" t="Include" />
+            <e p="CloseEventArgs.cs" t="Include" />
+            <e p="CloseStatusCode.cs" t="Include" />
+            <e p="CompressionMethod.cs" t="Include" />
+            <e p="ErrorEventArgs.cs" t="Include" />
+            <e p="Ext.cs" t="Include" />
+            <e p="Fin.cs" t="Include" />
+            <e p="HttpBase.cs" t="Include" />
+            <e p="HttpRequest.cs" t="Include" />
+            <e p="HttpResponse.cs" t="Include" />
+            <e p="LogData.cs" t="Include" />
+            <e p="Logger.cs" t="Include" />
+            <e p="LogLevel.cs" t="Include" />
+            <e p="Mask.cs" t="Include" />
+            <e p="MessageEventArgs.cs" t="Include" />
+            <e p="Net" t="Include">
+              <e p="AuthenticationBase.cs" t="Include" />
+              <e p="AuthenticationChallenge.cs" t="Include" />
+              <e p="AuthenticationResponse.cs" t="Include" />
+              <e p="AuthenticationSchemes.cs" t="Include" />
+              <e p="Chunk.cs" t="Include" />
+              <e p="ChunkedRequestStream.cs" t="Include" />
+              <e p="ChunkStream.cs" t="Include" />
+              <e p="ClientSslConfiguration.cs" t="Include" />
+              <e p="Cookie.cs" t="Include" />
+              <e p="CookieCollection.cs" t="Include" />
+              <e p="CookieException.cs" t="Include" />
+              <e p="EndPointListener.cs" t="Include" />
+              <e p="EndPointManager.cs" t="Include" />
+              <e p="HttpBasicIdentity.cs" t="Include" />
+              <e p="HttpConnection.cs" t="Include" />
+              <e p="HttpDigestIdentity.cs" t="Include" />
+              <e p="HttpHeaderInfo.cs" t="Include" />
+              <e p="HttpHeaderType.cs" t="Include" />
+              <e p="HttpListener.cs" t="Include" />
+              <e p="HttpListenerAsyncResult.cs" t="Include" />
+              <e p="HttpListenerContext.cs" t="Include" />
+              <e p="HttpListenerException.cs" t="Include" />
+              <e p="HttpListenerPrefix.cs" t="Include" />
+              <e p="HttpListenerPrefixCollection.cs" t="Include" />
+              <e p="HttpListenerRequest.cs" t="Include" />
+              <e p="HttpListenerResponse.cs" t="Include" />
+              <e p="HttpRequestHeader.cs" t="Include" />
+              <e p="HttpResponseHeader.cs" t="Include" />
+              <e p="HttpStatusCode.cs" t="Include" />
+              <e p="HttpStreamAsyncResult.cs" t="Include" />
+              <e p="HttpUtility.cs" t="Include" />
+              <e p="HttpVersion.cs" t="Include" />
+              <e p="InputChunkState.cs" t="Include" />
+              <e p="InputState.cs" t="Include" />
+              <e p="LineState.cs" t="Include" />
+              <e p="NetworkCredential.cs" t="Include" />
+              <e p="QueryStringCollection.cs" t="Include" />
+              <e p="ReadBufferState.cs" t="Include" />
+              <e p="RequestStream.cs" t="Include" />
+              <e p="ResponseStream.cs" t="Include" />
+              <e p="ServerSslConfiguration.cs" t="Include" />
+              <e p="WebHeaderCollection.cs" t="Include" />
+              <e p="WebSockets" t="Include">
+                <e p="HttpListenerWebSocketContext.cs" t="Include" />
+                <e p="TcpListenerWebSocketContext.cs" t="Include" />
+                <e p="WebSocketContext.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Opcode.cs" t="Include" />
+            <e p="PayloadData.cs" t="Include" />
+            <e p="Rsv.cs" t="Include" />
+            <e p="Server" t="Include">
+              <e p="HttpRequestEventArgs.cs" t="Include" />
+              <e p="HttpServer.cs" t="Include" />
+              <e p="IWebSocketSession.cs" t="Include" />
+              <e p="ServerState.cs" t="Include" />
+              <e p="WebSocketBehavior.cs" t="Include" />
+              <e p="WebSocketServer.cs" t="Include" />
+              <e p="WebSocketServiceHost.cs" t="Include" />
+              <e p="WebSocketServiceHost`1.cs" t="Include" />
+              <e p="WebSocketServiceManager.cs" t="Include" />
+              <e p="WebSocketSessionManager.cs" t="Include" />
+            </e>
+            <e p="WebSocket.cs" t="Include" />
+            <e p="WebSocketException.cs" t="Include" />
+            <e p="WebSocketFrame.cs" t="Include" />
+            <e p="WebSocketState.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="Texture_From_ESP32CAM.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
