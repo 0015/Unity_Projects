@@ -1,11 +1,15 @@
 # That Project for Unity3d
 
 Implement all Unity ideas
-* [Youtube Channel](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w) 
+
+* [Youtube Channel](https://youtube.com/c/ThatProject) 
 
 ## Projects
 
 * [Youtube Unity3D Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAzcQciRTvPZ3Mw_v7j8noOw) 
+
+* [Unity | ESP32 | MPU6050 | MahonyAHRS - Rotate 3d Object in Unity(ft. Quaternion)][[Video]](https://youtu.be/zN89M_MjVKo)[[Source Code]](https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32/BLE_MPU6050_Rotate_3D_Object)
+
 
 * [Unity3D | ESP32CAM - FROM REALITY TO VIRTUAL (Ft. WebSocket)](https://youtu.be/4heFVoyf7GA) - (https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32CAM/Texture_From_WebSocket)
 
@@ -16,7 +20,7 @@ Implement all Unity ideas
 ### Created & Maintained By
 
 [Eric Nam](https://github.com/0015)
-([Youtube](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w))
+([Youtube](https://youtube.com/c/ThatProject))
 
 ## License
 
