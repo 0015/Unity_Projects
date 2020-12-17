@@ -8,8 +8,9 @@ Implement all Unity ideas
 
 * [Youtube Unity3D Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAzcQciRTvPZ3Mw_v7j8noOw) 
 
-* [Unity | ESP32 | MPU6050 | MahonyAHRS - Rotate 3d Object in Unity(ft. Quaternion)][[Video]](https://youtu.be/zN89M_MjVKo)[[Source Code]](https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32/BLE_MPU6050_Rotate_3D_Object)
+* [Make Own Fishing Rod For Game Asset (ft. MagicaVoxel) #Nintendo #FishingRod][[Video]]https://youtu.be/Av-jUM9hQ5Q)[[Game Asset]](https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32/FishingRod_MagicaVoxel)
 
+* [Unity | ESP32 | MPU6050 | MahonyAHRS - Rotate 3d Object in Unity(ft. Quaternion)][[Video]](https://youtu.be/zN89M_MjVKo)[[Source Code]](https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32/BLE_MPU6050_Rotate_3D_Object)
 
 * [Unity3D | ESP32CAM - FROM REALITY TO VIRTUAL (Ft. WebSocket)](https://youtu.be/4heFVoyf7GA) - (https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32CAM/Texture_From_WebSocket)
 
