@@ -8,9 +8,11 @@ Implement all Unity ideas
 
 * [Youtube Unity3D Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAzcQciRTvPZ3Mw_v7j8noOw) 
 
-* [[Unity | Adding a Fishing Line(A.K.A Rope) for My Fishing Rod][[Video]](https://youtu.be/5kluFP8c1bk)[[Source Code]](https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32/FishingRod_Unity)
+* [[Hardware Fishing Rod as a controller in Unity][[Video]](https://youtu.be/fa1BbcU1fu0)[[Source Code]](https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32/Project_MyFIshingRod/Part.3_Building_FishingRod_with_hardware_in_Unity)
 
-* [[Make Own Fishing Rod For Game Asset (ft. MagicaVoxel) #Nintendo #FishingRod][[Video]](https://youtu.be/Av-jUM9hQ5Q)[[Game Asset]](https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32/FishingRod_MagicaVoxel)
+* [[Unity | Adding a Fishing Line(A.K.A Rope) for My Fishing Rod][[Video]](https://youtu.be/5kluFP8c1bk)[[Source Code]](https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32/Project_MyFIshingRod/Part.2_Building_FishingRod_in_Unity)
+
+* [[Make Own Fishing Rod For Game Asset (ft. MagicaVoxel) #Nintendo #FishingRod][[Video]](https://youtu.be/Av-jUM9hQ5Q)[[Game Asset]](https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32/Project_MyFIshingRod/Part.1_Building_FishingRod_MagicaVoxel)
 
 * [Unity | ESP32 | MPU6050 | MahonyAHRS - Rotate 3d Object in Unity(ft. Quaternion)][[Video]](https://youtu.be/zN89M_MjVKo)[[Source Code]](https://github.com/0015/Unity3D_Tutorial/tree/master/Unity3D_ESP32/BLE_MPU6050_Rotate_3D_Object)
 
