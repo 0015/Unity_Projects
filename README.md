@@ -8,6 +8,12 @@ Implement all Unity Project Ideas
 
 * [Youtube Unity Projects](https://www.youtube.com/playlist?list=PLnq7JUnBumAzcQciRTvPZ3Mw_v7j8noOw) 
 
+<a href="https://youtu.be/fPuxcjHsfpc">
+<img width="600" src="https://github.com/0015/Unity_Projects/blob/master/misc/UWB_IMU_Position_Rotation.gif">
+</a>
+
+* [[ESP32 + UWB + IMU | Indoor Position & Rotation + Unity Visualization][[Video]](https://youtu.be/fPuxcjHsfpc)[[Source Code]](https://github.com/0015/Unity_Projects/tree/master/UWB_Indoor_Position_Rotation_Visualization)
+---
 <a href="https://youtu.be/c8Pn7lS5Ppg">
 <img width="600" src="https://github.com/0015/Unity_Projects/blob/master/misc/UWB_Indoor_Position_Visualization.gif">
 </a>
